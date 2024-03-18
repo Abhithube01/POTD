@@ -48,8 +48,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Abhinav/Desktop/DSA/leetcode",
-      "program": "c:/Users/Abhinav/Desktop/DSA/leetcode/build/Debug/outDebug",
+      "cwd": "c:/Users/Abhinav/Documents/GitHub/POTD",
+      "program": "c:/Users/Abhinav/Documents/GitHub/POTD/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
