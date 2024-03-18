@@ -12,7 +12,8 @@ public:
         for(int i=1;i<points.size();i++){
             if(points[i][0]<=e)
             s=max(s,points[i][0]),e=min(e,points[i][1]);
-            else{
+            else
+            {
                 cnt++;
                 s=points[i][0];
                 e=points[i][1];
