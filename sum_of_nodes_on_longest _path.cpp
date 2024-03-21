@@ -19,7 +19,7 @@ public:
 
     pair<int, int> findLongestPathSum(Node *root) {
     if (root == NULL)
-        return make_pair(0, 0);
+        return make_pair(0, 0); 
 
     pair<int, int> left = findLongestPathSum(root->left);
     pair<int, int> right = findLongestPathSum(root->right);
